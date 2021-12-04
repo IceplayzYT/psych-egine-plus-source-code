@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Iceplayz_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icetalkangry0000" x="0" y="0" width="299" height="529"/>
+	<SubTexture name="icetalkangryloop0000" x="299" y="0" width="305" height="527" frameX="0" frameY="-2" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkangryloop0001" x="299" y="0" width="305" height="527" frameX="0" frameY="-2" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkangryloop0002" x="604" y="0" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkangryloop0003" x="604" y="0" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkangryloop0004" x="903" y="0" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkangryloop0005" x="903" y="0" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkangryloop0006" x="903" y="0" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkangryloop0007" x="903" y="0" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkangryloop0008" x="903" y="0" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkgod0000" x="1202" y="0" width="235" height="535"/>
+	<SubTexture name="icetalkgodloop0000" x="1437" y="0" width="234" height="527" frameX="0" frameY="-2" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalkgodloop0001" x="1437" y="0" width="234" height="527" frameX="0" frameY="-2" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalkgodloop0002" x="1671" y="0" width="231" height="534" frameX="-6" frameY="0" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalkgodloop0003" x="1671" y="0" width="231" height="534" frameX="-6" frameY="0" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalkgodloop0004" x="0" y="535" width="235" height="535" frameX="-6" frameY="0" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalkgodloop0005" x="0" y="535" width="235" height="535" frameX="-6" frameY="0" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalkgodloop0006" x="0" y="535" width="235" height="535" frameX="-6" frameY="0" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalkgodloop0007" x="0" y="535" width="235" height="535" frameX="-6" frameY="0" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalkgodloop0008" x="0" y="535" width="235" height="535" frameX="-6" frameY="0" frameWidth="241" frameHeight="535"/>
+	<SubTexture name="icetalknormal0000" x="235" y="535" width="299" height="529"/>
+	<SubTexture name="icetalknormalloop0000" x="534" y="535" width="305" height="527" frameX="0" frameY="-2" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalknormalloop0001" x="534" y="535" width="305" height="527" frameX="0" frameY="-2" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalknormalloop0002" x="839" y="535" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalknormalloop0003" x="839" y="535" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalknormalloop0004" x="1138" y="535" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalknormalloop0005" x="1138" y="535" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalknormalloop0006" x="1138" y="535" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalknormalloop0007" x="1138" y="535" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalknormalloop0008" x="1138" y="535" width="299" height="529" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhat0000" x="1437" y="535" width="299" height="529"/>
+	<SubTexture name="icetalkwhatloop0000" x="1736" y="535" width="305" height="527" frameX="0" frameY="-2" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhatloop0001" x="1736" y="535" width="305" height="527" frameX="0" frameY="-2" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhatloop0002" x="0" y="1070" width="299" height="523" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhatloop0003" x="0" y="1070" width="299" height="523" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhatloop0004" x="299" y="1070" width="299" height="525" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhatloop0005" x="299" y="1070" width="299" height="525" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhatloop0006" x="299" y="1070" width="299" height="525" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhatloop0007" x="299" y="1070" width="299" height="525" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+	<SubTexture name="icetalkwhatloop0008" x="299" y="1070" width="299" height="525" frameX="-6" frameY="0" frameWidth="305" frameHeight="529"/>
+</TextureAtlas>

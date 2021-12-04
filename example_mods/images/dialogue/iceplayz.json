@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		130,
+		50
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"loop_name": "icetalknormalloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "icetalknormal",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "icetalkwhatloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "icetalkwhat",
+			"anim": "what",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "icetalkangryloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "icetalkangry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "icetalkgodloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "icetalkgod",
+			"anim": "god",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Iceplayz_dialogue"
+}

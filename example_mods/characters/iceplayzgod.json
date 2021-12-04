@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": true,
+			"name": "IceHey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "IceRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "IceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "IceDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "IceUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IceIdleGod"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/iceplayzgod",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "iceplayzgod",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		220,
+		255
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
